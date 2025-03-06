@@ -41,6 +41,9 @@ gem "thruster", require: false
 # gem "image_processing", "~> 1.2"
 
 gem 'activeadmin'
+gem 'devise'
+gem 'sassc-rails'
+gem 'sprockets-rails'
 
 
 group :development, :test do
